@@ -28,7 +28,7 @@
     "ascii-json": "0.2.0"
   },
   "peerDependencies": {
-    "react-native": ">= 0.3.1"
+    "react-native": "0.15.0-rc || >=0.3.1"
   },
   "devDependencies": {
     "babel": "6.0.15",
